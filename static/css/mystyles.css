@@ -1,0 +1,73 @@
+.content-mobile {
+  background: url(../images/1.png) no-repeat left;
+  background-attachment: fixed;
+  background-size: cover;
+}
+figure{
+    width: 150px;
+    display: inline;
+}
+.technologies{
+    text-align: center;
+}
+.technology-box{
+    /* margin: 2%; */
+    /* border: 1px solid black;
+    border-radius: 10px; */
+}
+.technologies img{
+    padding: 5% 2%;
+    border-radius: 10px;
+}
+.technologies p{
+    font-size: 1.2rem;
+    font-weight: 900;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#content2 .col-lg-3{
+    /* padding: 2%; */
+    padding-right: 0;
+}
+#content2 .col-6{
+    /* padding: 2%; */
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.skills{
+    text-align: center;
+}
+.skills-box{
+    /* margin: 2%; */
+    /* border: 1px solid black;
+    border-radius: 10px; */
+}
+.skills img{
+    padding: 5% 2%;
+    border-radius: 5%;
+}
+.skills p{
+    font-size: 1.2rem;
+    font-weight: 900;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+#content1 .col-lg-3{
+    /* padding: 2%; */
+    padding-right: 0;
+}
+#content1 .col-6{
+    padding: 3%;
+}
+#experience{
+    background-image: url(static/images/1.jpg) !important;
+}
+
+#content3 p{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 900;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
